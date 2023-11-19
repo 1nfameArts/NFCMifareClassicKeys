@@ -6,3 +6,8 @@ Dump of Mifare classic keys to use within Flipper Zero. Not affiliated with flip
 
 
 [Keygen](https://github.com/1nfameArts/NFCMifareClassicKeys/blob/main/KeyGen.txt) 
+
+# Thank you so much!
+I have never experienced this amount of stars on my personal profile.
+However, you probably can't give me donations, due to me located in Russia.
+This is sponsored by the Stupid USA Sanctions™
