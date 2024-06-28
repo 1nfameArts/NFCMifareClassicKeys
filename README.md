@@ -1,6 +1,7 @@
 # NFC Key Dumps
-Dump of Mifare classic keys to use within Flipper Zero. Not affiliated with flipper devices inc.
+![Static Badge](https://img.shields.io/badge/Not%20affiliated%20with%20Flipper%20Devices%20-%20?style=plastic&color=5200cc)
 
+Dump of Mifare classic keys to use within Flipper Zero.
 # Current available dumps (on this repository)
 [TTC](https://oao-tts.ru/) [Card Key dump](https://github.com/1nfameArts/NFCMifareClassicKeys/blob/main/TTC.txt). Not everything could be bruteforced.
 
